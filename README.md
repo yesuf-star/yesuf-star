@@ -65,14 +65,10 @@ Building modern, responsive and user-friendly web applications.
 </a>
 
 <a href="mailto:yesufesmael201@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
-<a href="mailto:yesufesmael201@gmail.com">
-  📧 Contact Me: yesufesmael201@gmail.com
-</a>
----
 
 <div align="center">
 
