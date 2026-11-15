@@ -64,12 +64,14 @@ Building modern, responsive and user-friendly web applications.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="yesufesmael2022@gmail.com">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=email&logoColor=white" />
+<a href="mailto:yesufesmael201@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
 </a>
 
 </div>
-
+<a href="mailto:yesufesmael201@gmail.com">
+  📧 Contact Me: yesufesmael201@gmail.com
+</a>
 ---
 
 <div align="center">
